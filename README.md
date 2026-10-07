@@ -1,3 +1,11 @@
+# Ruth Ramos — React feature architecture Study Fork
+
+Attributed study fork of [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react), under the preserved [MIT license](LICENSE). Upstream code and history retain their original authors.
+
+The additions are [source study notes](study/STUDY.md) and a [pinned source record](study/SOURCE.json), created in October 2026. This fork does not claim original authorship or work performed in 2021–2023. Application tests have not been run for this documentation-only addition.
+
+---
+
 
 <div align="center">
   <img src="docs/assets/logo.svg" width="100%" alt="Bulletproof React Logo" />
